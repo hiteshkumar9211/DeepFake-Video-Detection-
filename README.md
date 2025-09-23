@@ -1,8 +1,16 @@
 # DeepFake-Video-Detection-
 Table of Contents:
 
-What is Deepfake?
+1.What is Deepfake?T
 
-Demo of Project
+2.Demo of Project
 
-Impact of Deepfake Video Detection 
+3.Impact of Deepfake Video Detection 
+
+4.Project Pipeline 
+
+5.Model usage and architecture
+
+6.Technologies Used
+
+7.Conclusion
