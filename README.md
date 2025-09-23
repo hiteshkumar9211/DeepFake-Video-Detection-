@@ -1,7 +1,7 @@
 # DeepFake-Video-Detection-
 Table of Contents:
 
-1.What is Deepfake?T
+1.What is Deepfake?
 
 2.Demo of Project
 
