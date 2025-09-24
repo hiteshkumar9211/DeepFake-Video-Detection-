@@ -147,7 +147,7 @@ ResNet by finding the probability of each video frame being fake and predicting 
 
 - For the CNN + LSTM model, the features of face-cropped video frames are extracted using pretrained CNN models and it is passed onto the RNN model which classifies the video as REAL or 
 FAKE. We Experimented with EfficientNet and inception net for the feature extraction part and 
-GRU is used to make the classification. We have obtained a maximum Test Accuracy of ~85% 
+  LSTM is used to make the classification. We have obtained a maximum Test Accuracy of ~89% 
 using this approach. Our model has high precision for FAKE videos which is obtained by giving 
 more FAKE videos during the training of the Model.
 
@@ -155,6 +155,6 @@ more FAKE videos during the training of the Model.
 ## Team :
 1.  Hitesh Kumar
 2.  Akshay Kumar
-3.  
+
 
 
