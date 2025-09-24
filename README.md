@@ -90,7 +90,7 @@ preset weights of imagenet dataset
 **InceptionV3(CNN Model) + LSTM(sequential)**
 
 -  This model works well because of both CNN and Sequential architecture.
-- Test Accuracy is approx. 82%
+- Test Accuracy is approx. 89%
 - For Each Frame in the Video, it will generate the feature Vectors
 - HyperParameters used: 
 - Optimizer: Adam ( Adam Works fine as it changes the Learning Rate over time )
@@ -107,7 +107,7 @@ detect the multiple faces in each Frame.
 **EfficientNetB2(CNN Model) + LSTM(sequential)**
 
 - This model works well because of both CNN and Sequential architecture
-- Test Accuracy is approx. 89%
+- Test Accuracy is approx. 82%
 - For Each Frame in the Video, it will generate the feature Vectors
 - HyperParameters used: 
 - Optimizer: Adam ( Adam Works fine as it changes the Learning Rate over time )
